@@ -105,3 +105,4 @@ venv.bak/
 .terraform/
 admin_venv/
 *.swp
+.exercism/
